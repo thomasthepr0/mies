@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  miesportal:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-01-08T17:36:20.666365+08:00"
+    description: Helm chart for mies portal
+    digest: c1c259dceb02547867515468da5af9f65733de8e015c06967e671ca722ad4d95
+    icon: https://upload.wikimedia.org/wikipedia/commons/9/96/NEC_logo.svg
+    keywords:
+    - mies
+    - portal
+    - NEC
+    name: miesportal
+    type: application
+    urls:
+    - https://thomasthepr0.github.io/mies/miesportal-1.0.0.tgz
+    version: 1.0.0
+  sqlservertunnel:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-01-08T17:36:20.666606+08:00"
+    description: Helm chart for sqlservertunnel
+    digest: 7be0ab5fb4bb8547ce1d7d1b5dc677562e8bbafee389494eb154ff4f06904d71
+    icon: https://upload.wikimedia.org/wikipedia/commons/9/96/NEC_logo.svg
+    keywords:
+    - mies
+    - portal
+    - NEC
+    name: sqlservertunnel
+    type: application
+    urls:
+    - https://thomasthepr0.github.io/mies/sqlservertunnel-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-01-08T17:36:20.665406+08:00"
