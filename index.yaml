@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  miesportal:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-01-09T11:44:44.570725+08:00"
+    description: Helm chart for mies portal
+    digest: bd3a4ce77590c0a24dc0044ef97fc17749541aeec957fff9d6b1bd0793e1b96d
+    icon: https://upload.wikimedia.org/wikipedia/commons/9/96/NEC_logo.svg
+    keywords:
+    - mies
+    - portal
+    - NEC
+    name: miesportal
+    type: application
+    urls:
+    - https://thomasthepr0.github.io/mies/charts/miesportal-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-01-09T11:44:44.566626+08:00"
